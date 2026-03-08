@@ -443,7 +443,7 @@ False Negative analysis shows that the vast majority of missed failures are Rand
 
 ```bash
 # Clone the repository
-git clone https://github.com/paul-dev-28/Failure_Predictor.git
+git clone https://github.com/paul-dev-28/Machine_Failure_Predictor.git
 cd Failure_Predictor
 
 # Create a virtual environment
