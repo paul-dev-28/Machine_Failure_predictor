@@ -1,4 +1,4 @@
-# AI-Based MAchine Maintenance
+# AI-Based Machine Maintenance
 ### Machine Failure Prediction Using Machine Learning Techniques
 
 > *Predict industrial equipment failures before they happen - using physics-informed feature engineering, synthetic oversampling, and a four-model stacking ensemble.*
