@@ -23,10 +23,11 @@ Developed an end-to-end machine learning pipeline to predict industrial machine 
 
 ## Results
 
-Metric	         Score
-ROC-AUC	         0.989
-Accuracy         	97%
-F1 Score	         0.91
+| Metric | Score |
+|---------|---------|
+| ROC-AUC | 0.98 |
+| Accuracy | 97% |
+| F1 Score | 0.91 |
 
 ## Tech Stack
 
